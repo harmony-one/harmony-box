@@ -6,6 +6,8 @@ Harmony Box is a Truffle box that will get you quickly up and running deploying 
 
 ## Getting started
 
+### Truffle
+
 If you have Truffle installed globally:
 
 ```
@@ -20,13 +22,17 @@ git clone https://github.com/harmony-one/harmony-box
 cd harmony-box
 ```
 
+### .env
+
 Copy .env-example to .env:
 
 ```
 cp .env-example .env
 ```
 
-Modify .env and replace "ENTER_PRIVATE_KEY_HERE" for each network with the respective private key you want to use when deploying contracts.
+Modify .env and replace "`ENTER_PRIVATE_KEY_HERE`" for each network with the respective private key you want to use when deploying contracts.
+
+### Dependencies
 
 Install all required dependencies using yarn:
 
