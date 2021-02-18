@@ -11,8 +11,8 @@ Harmony Box is a Truffle box that will get you quickly up and running deploying 
 If you have Truffle installed globally:
 
 ```
-mkdir harmony-box && cd harmony-box
-truffle unbox harmony-one/harmony-box
+mkdir harmony && cd harmony
+truffle unbox harmony
 ```
 
 Or if you want to install via git:
