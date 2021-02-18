@@ -18,7 +18,7 @@ truffle unbox harmony-one/harmony-box
 Or if you want to install via git:
 
 ```
-git clone https://github.com/harmony-one/harmony-box
+git clone https://github.com/harmony-one/harmony-box.git
 cd harmony-box
 ```
 
