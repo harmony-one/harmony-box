@@ -2,7 +2,7 @@
 
 # Harmony Box
 
-Harmony Box is a Truffle box that will get you quickly up and running deploying smart contracts on Harmony using native Ethereum tooling.
+Harmony Box is a Truffle box that will get you quickly up and running deploying smart contracts on Harmony using Truffle & native Ethereum tooling.
 
 ## Getting started
 
