@@ -1,0 +1,17 @@
+{
+  "ignore": [
+    "README.md",
+    "box-img-lg.png",
+    "box-img-sm.png",
+    ".github",
+    "LICENSE"
+  ],
+  "commands": {
+    "Compile": "truffle compile",
+    "Migrate": "truffle migrate",
+    "Test contracts": "truffle test"
+  },
+  "hooks": {
+    "post-unpack": "yarn install"
+  }
+}
