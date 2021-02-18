@@ -9,6 +9,7 @@ Harmony Box is a Truffle box that will get you quickly up and running deploying 
 ### Truffle
 
 If you have Truffle installed globally:
+
 (Until the box has been approved by Truffle you have to rely on the git installation step below)
 
 ```
