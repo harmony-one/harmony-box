@@ -46,8 +46,7 @@ The dependencies installed are the following:
 
 - truffle: if you want to use a local installation rather than a global installation
 - solc: Solidity compiler
-- @trufflesuite/web3-provider-engine: framework for composing custom web3 providers
-- ethereumjs-wallet: a lightweight Ethereum wallet implementation
+- @trufflesuite/hdwallet-provider: HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.
 - @openzeppelin/contracts: industry standard smart contract templates
 - dotenv: .env file parsing library
 
@@ -98,7 +97,3 @@ Locally installed Truffle:
 ```
 node_modules/.bin/truffle test
 ```
-
-## Attribution
-
-[private-provider.js](private-provider.js) was originally ported from [Moonbeam's Truffle Box](https://github.com/PureStake/moonbeam-truffle-box/blob/db2f86516c1063b6bf56050e950b7ad67b500fe5/private-provider.js).
